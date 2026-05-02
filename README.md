@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Gabriel Dickmann Schneider, tenho 20 anos sou de Blumenau, Santa Catarina e atualmente estou cursando engrenharia de software. Sou apaixonado pelo mundo da tecnologia e estou muito empolgasdo em prender novas linguagens e novas técnicas para construir novas soluções para os problemas encontrados no dia a dia.
+Sou Gabriel Dickmann Schneider, tenho 20 anos sou de Blumenau, Santa Catarina e atualmente estou cursando engrenharia de software. Sou apaixonado pelo mundo da tecnologia e estou muito empolgado em aprender novas linguagens e novas técnicas para construir novas soluções para os problemas encontrados no dia a dia.
 
 ---
 ### 🤖 Linguagens e Tecnologias
